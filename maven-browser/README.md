@@ -1,4 +1,4 @@
-# JavaFX Skeleton
+# JavaFX Skeleton : Browser
 
   In eclipse, you can add these project with "Import Maven Project".
 

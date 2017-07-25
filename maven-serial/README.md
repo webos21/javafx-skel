@@ -1,4 +1,4 @@
-# JavaFX Skeleton
+# JavaFX Skeleton : Serial Terminal 
 
   In eclipse, you can add these project with "Import Maven Project".
 
